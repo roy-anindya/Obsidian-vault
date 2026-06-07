@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"12ca3521865bb27b","x":-335,"y":82,"width":250,"height":60,"type":"text","text":"Hello World!!"},
+		{"id":"fde465201b409855","x":220,"y":-20,"width":250,"height":60,"type":"text","text":"zjell\n"}
+	],
+	"edges":[
+		{"id":"82c16e5b20de2321","fromNode":"12ca3521865bb27b","fromSide":"right","toNode":"fde465201b409855","toSide":"left"}
+	]
+}
